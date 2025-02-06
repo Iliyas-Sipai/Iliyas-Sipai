@@ -1,23 +1,40 @@
-<h1>Hi 👋, I'm iliyas</h1>
-<h2>A passionate frontend developer from india </h2>
-<p>Kicking off my journey with an exciting project! This challenge is all about learning, experimenting, and leveling up my skills every single day.
-</p> 
-<img  alt="coding" style=" hight:100px;  width: 500px; margin-bottom: 30px;" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<h2>🚀 Languages and Tools I Use</h2>
 
-<div gap="2rem">
-   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react.js" width="42" height="42" /></a>
-   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img 
-   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img 
-   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
-</div>
+Hi there! 👋 Welcome to My GitHub Profile
 
+I'm iliyas , a passionate developer with a strong interest in web development, JavaScript, and building creative projects. Currently, I'm on an exciting journey of completing 50 Days, 50 Projects to sharpen my front-end skills. 🚀
 
+📌 About Me
+
+🎓 BCA Graduate from a top Canadian university
+
+🎯 Aspiring Master's Student in Computer Science (USA)
+
+💻 Tech Stack: HTML, CSS, JavaScript, React, and more
+
+📚 Currently Learning: Advanced JavaScript, React, and Backend Technologies
+
+⚡ Fun Fact: I enjoy solving coding challenges and experimenting with UI/UX effects
+
+🔥 50 Days, 50 Projects Challenge
+
+I'm building small but impactful projects daily. Some of my recent ones:
+
+✅ Day 1: Side Menu (Hamburger Menu)
+
+✅ Day 4: Dropdown Menu with Search Box
+
+✅ Day 10: Parallax Scroll Effect
+
+✅ Day 16: OTP Generator using JavaScript
+
+🔗 Explore my projects here.
+
+📫 Connect with Me
+
+🌐 Portfolio: your-portfolio-link
+
+📩 Email: your-email
+
+💼 LinkedIn: your-linkedin-profile
+
+Let's connect and build something amazing together! 🚀
