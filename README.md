@@ -1,7 +1,6 @@
-
 Hi there! 👋 Welcome to My GitHub Profile
 
-I'm iliyas , a passionate developer with a strong interest in web development, JavaScript, and building creative projects. Currently, I'm on an exciting journey of completing 50 Days, 50 Projects to sharpen my front-end skills. 🚀
+I'm Iliyas, a passionate developer with a strong interest in web development, JavaScript, and building creative projects. Currently, I'm on an exciting journey of completing 50 Days, 50 Projects to sharpen my front-end skills. 🚀
 
 📌 About Me
 
@@ -38,3 +37,4 @@ I'm building small but impactful projects daily. Some of my recent ones:
 💼 LinkedIn: your-linkedin-profile
 
 Let's connect and build something amazing together! 🚀
+
