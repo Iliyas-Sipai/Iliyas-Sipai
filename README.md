@@ -22,7 +22,6 @@ I'm building small but impactful projects daily. Some of my recent ones:
 
 ✅ Day 4: Dropdown Menu with Search Box
 
-✅ Day 10: Parallax Scroll Effect
 
 
 🔗 Explore my projects here.
