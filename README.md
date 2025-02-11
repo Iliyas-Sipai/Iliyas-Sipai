@@ -24,7 +24,6 @@ I'm building small but impactful projects daily. Some of my recent ones:
 
 ✅ Day 10: Parallax Scroll Effect
 
-✅ Day 16: OTP Generator using JavaScript
 
 🔗 Explore my projects here.
 
