@@ -6,8 +6,6 @@ I'm Iliyas, a passionate developer with a strong interest in web development, Ja
 
 🎓 BCA Graduate from a top KSV university
 
-🎯 Aspiring Master's Student in Computer Science (USA)
-
 💻 Tech Stack: HTML, CSS, JavaScript, React, and more
 
 📚 Currently Learning: Advanced JavaScript, React, and Backend Technologies
