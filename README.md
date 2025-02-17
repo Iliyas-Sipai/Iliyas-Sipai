@@ -4,7 +4,7 @@ I'm Iliyas, a passionate developer with a strong interest in web development, Ja
 
 📌 About Me
 
-🎓 BCA Graduate from a top Canadian university
+🎓 BCA Graduate from a top KSV university
 
 🎯 Aspiring Master's Student in Computer Science (USA)
 
