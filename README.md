@@ -26,8 +26,6 @@ I'm building small but impactful projects daily. Some of my recent ones:
 
 📫 Connect with Me
 
-🌐 Portfolio: your-portfolio-link
-
 📩 Email: your-email
 
 💼 LinkedIn: your-linkedin-profile
