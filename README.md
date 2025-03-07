@@ -21,7 +21,6 @@ I'm building small but impactful projects daily. Some of my recent ones:
 ✅ Day 4: Dropdown Menu with Search Box
 
 
-
 🔗 Explore my projects here.
 
 📫 Connect with Me
