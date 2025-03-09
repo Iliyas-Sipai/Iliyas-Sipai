@@ -18,4 +18,4 @@
 I'm currently on an exciting journey of building **50 projects in 50 days** to sharpen my front-end skills. Follow my progress and check out my repositories! 🚀  
 
 
-🔹 **"Code, Experiment, and Keep Building!"** 🔹
+🔹 **"Code, Experiment, and Keep Building!"* 🔹
