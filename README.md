@@ -3,7 +3,7 @@
 <h1 align="start">Hi there! 👋 I'm Iliyas</h1>
 
 <p align="start">
-  <b>Passionate Developer | Web Enthusiast | JavaScript Explorer</b> 🚀
+  <b>Frontend Developer | JavaScript Explorer</b> 🚀
 </p>
 
 ---
