@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
-<h2 align="start">Hi there! 👋 I'm Iliyas</h1>
+<h1 align="start">Hi there! 👋 I'm Iliyas</h1>
 
-<p align="center">
+<p align="start">
   <b>Passionate Developer | Web Enthusiast | JavaScript Explorer</b> 🚀
 </p>
 
