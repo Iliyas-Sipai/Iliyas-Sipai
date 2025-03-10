@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
-<h1 align="start">Hi there! 👋 I'm Iliyas</h1>
+<h2 align="start">Hi there! 👋 I'm Iliyas</h1>
 
 <p align="center">
   <b>Passionate Developer | Web Enthusiast | JavaScript Explorer</b> 🚀
