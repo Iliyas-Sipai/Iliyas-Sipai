@@ -6,8 +6,6 @@
   <b>Frontend Developer | JavaScript Explorer</b> 🚀
 </p>
 
----
-
 ### 📌 About Me  
 🎓 **BCA Graduate** from KSV University  
 💻 **Tech Stack:** HTML, CSS, JavaScript, React, and more  
