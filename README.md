@@ -9,8 +9,8 @@
 ### 📌 About Me  
 🎓 **BCA Graduate** from KSV University  
 💻 **Tech Stack:** HTML, CSS, JavaScript, React, and more  
-📚 **Currently Learning:** Advanced JavaScript, React, Backend Technologies  
-⚡ **Fun Fact:** I love solving coding challenges and experimenting with UI/UX effects  
+📚 **Currently Learning:** Advanced JavaScript, React
+⚡ **Fun Fact:** I love solving coding challenges   
 
 ---
 
