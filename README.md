@@ -1,4 +1,4 @@
-u<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 <h1 align="start">Hi there! 👋 I'm Iliyas</h1>
 
