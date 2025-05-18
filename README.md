@@ -34,6 +34,7 @@ I'm currently on an exciting journey of building **50 projects in 50 days** to s
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iliyas-sipai-dev/)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Iliyas-Sipai)
 
 ---
