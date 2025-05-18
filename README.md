@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React and JavaScript projects**
 - 🌱 I’m currently learning **Node.js and Backend Development**
-- 👨‍💻 All of my projects are available at [My Portfolio]((https://portfolio-sipai-iliyas-projects.vercel.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sipai-iliyas-projects.vercel.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **your.iliyassipai861@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
@@ -32,7 +32,7 @@
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Iliyas-Sipai)
 
 ---
 
