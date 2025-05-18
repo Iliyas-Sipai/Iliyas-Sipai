@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif">
 
 - 🔭 I’m currently working on **React and JavaScript projects**
-- 🌱 I’m currently learning **Node.js and Backend Development**
+- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sipai-iliyas-projects.vercel.app/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **your.iliyassipai861@gmail.com**
@@ -14,33 +14,17 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p>
+<p gap="10rem">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iliyas-sipai-dev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Iliyas-Sipai)
 
 ---
 
-> ⚠️ **Don’t forget to:**
-> - Replace `your-username` with your GitHub username
-> - Replace links with your actual portfolio, LinkedIn, and resume
-> - Add a real email if you want to display one
 
----
-
-Would you like me to generate this and send it as a file for you to upload?
