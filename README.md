@@ -25,18 +25,24 @@ I'm currently on an exciting journey of building **50 projects in 50 days** to s
 
 ---
 ### 🛠️ Languages and Tools:
-<p gap="110rem">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
 ### 🔗 Connect with me:
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/iliyas-sipai-dev/)  
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Iliyas-Sipai)
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
 
+</div>
 ---
 
 
