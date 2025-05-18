@@ -32,9 +32,9 @@ I'm currently on an exciting journey of building **50 projects in 50 days** to s
 ---
 
 ### 🔗 Connect with me:
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div  style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/iliyas-sipai-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
 
