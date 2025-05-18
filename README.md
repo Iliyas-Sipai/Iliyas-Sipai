@@ -1,32 +1,45 @@
-<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<h1 align="center">Hi 👋, I'm Iliyas Sipai</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-<h1 align="start">Hi there! 👋 I'm Iliyas</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif">
 
-<p align="start">
-  <b>Frontend Developer | JavaScript Explorer</b> 🚀
-</p>
-
-### 📌 About Me  
-🎓 **BCA Graduate** from KSV University  
-💻 **Tech Stack:** HTML, CSS, JavaScript, React, and more  
-📚 **Currently Learning:** Advanced JavaScript, React
-⚡ **Fun Fact:** I love solving coding challenges   
+- 🔭 I’m currently working on **React and JavaScript projects**
+- 🌱 I’m currently learning **Node.js and Backend Development**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.vercel.app/)
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 How to reach me: **your.email@example.com**
+- 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
 
 ---
 
-### 🔥 50 Days, 50 Projects Challenge  
-I'm currently on an exciting journey of building **50 projects in 50 days** to sharpen my front-end skills. Follow my progress and check out my repositories! 🚀  
-
-🔹 **"Code, Experiment, and Keep Building!"** 🔹
-## 🚀 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css4&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  
+### 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
 </p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-username)
+
+---
+
+> ⚠️ **Don’t forget to:**
+> - Replace `your-username` with your GitHub username
+> - Replace links with your actual portfolio, LinkedIn, and resume
+> - Add a real email if you want to display one
+
+---
+
+Would you like me to generate this and send it as a file for you to upload?
