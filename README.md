@@ -4,11 +4,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif">
 - 🎓 **BCA Graduate** from KSV University  
+
 - 🔭 I’m currently working on **React and JavaScript projects**
+
 - 🌱 I’m currently learning **React**
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sipai-iliyas-projects.vercel.app/)
+
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
+
 - 📫 How to reach me: **your.iliyassipai861@gmail.com**
+
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
 
 ---
