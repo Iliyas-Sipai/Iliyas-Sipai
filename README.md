@@ -43,6 +43,6 @@ I'm currently on an exciting journey of building **50 projects in 50 days** to s
   </a>
 
 </div>
----
+
 
 
