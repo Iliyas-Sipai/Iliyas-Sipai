@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
-- 📫 How to reach me: **your.iliyassipai861@gmail.com**
+- 📫 How to reach me: **iliyassipai861@gmail.com**
 
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
 
