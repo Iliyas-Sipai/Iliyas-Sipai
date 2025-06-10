@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
-<h1 align="center">Hi 👋, I'm Iliyas Sipai</h1>
+<h1 align="center">Hello 👋, I'm Iliyas Sipai</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif">
