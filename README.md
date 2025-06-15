@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-sipai-iliyas-projects.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Bootstrap**
 
 - 📫 How to reach me: **iliyassipai861@gmail.com**
 
