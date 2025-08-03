@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **iliyassipai861@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://your-resume-link.com)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1K0yXONxYGoDScP85XLlcFRWA4oa1PvgN/view?usp=sharing))
 
 
 
