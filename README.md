@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 <h1 align="center">Hello 👋, I'm Iliyas Sipai</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" alt="Coding" width="400" src=["https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif"]
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b9024f1a1ab19a22f3eb.gif">
+<img align="right" alt="Coding" width="400" src=(https://camo.githubusercontent.com/62d9ea1c40770c637b099af0d9ea121b834ac32b19f061dc98d5a116d73bf5a9/68747470733a2f2f7061796c6f61642d636d732e636f64652d622e6465762f6d656469612f446966666572656e63652532306265747765656e2532306125323046756c6c253230537461636b253230446576656c6f706572253230616e6425323061253230536f667477617265253230456e67696e6565722d372e676966)>
 - 🎓 **BCA Graduate** from KSV University  
 
 - 🔭 I’m currently working on **React and JavaScript projects*
