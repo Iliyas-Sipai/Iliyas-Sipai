@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://iliyassipai.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React,Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Bootstrap,TalwindCSS**
 
 - 📫 How to reach me: **iliyassipai861@gmail.com**
 
