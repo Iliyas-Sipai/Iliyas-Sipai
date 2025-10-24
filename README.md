@@ -27,7 +27,6 @@ I'm currently on an exciting journey of building **50 projects in 50 days** to s
 </p>
 
 ---
-
 ### 🔗 Connect with me:
 <div  style="display: flex; gap: 20px; flex-wrap: wrap;">
 
