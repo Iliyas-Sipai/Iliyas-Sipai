@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, I'm Iliyas Sipai</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
