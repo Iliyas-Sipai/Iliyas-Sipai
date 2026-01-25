@@ -21,7 +21,6 @@
 ### 🔥 50 Days, 50 Projects Challenge  
 I'm currently on an exciting journey of building **50 projects in 50 days** to sharpen my front-end skills. Follow my progress and check out my repositories! 🚀  
 
----
 ### 🛠️ Languages and Tools:-
 <p >
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
